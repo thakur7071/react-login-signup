@@ -1,3 +1,5 @@
+🔐 React Login & Signup
+
 A full-stack authentication system built using React (frontend) and MongoDB (backend). Users can sign up with a profile photo, first name, last name, email, username, and password. After logging in, users are redirected to a protected home page that displays their profile photo and a logout button.
 
 🚀 Features
