@@ -8,7 +8,7 @@ A full-stack authentication system built using React (frontend) and Node, Expres
 
 🔑 Login page: email & password
 
-🏠 Home page: displays the user’s uploaded photo and the logout button
+🏠 Home page: displays the user’s uploaded photo, username and the logout button
 
 🔒 Protected routes: cannot access home without login
 
